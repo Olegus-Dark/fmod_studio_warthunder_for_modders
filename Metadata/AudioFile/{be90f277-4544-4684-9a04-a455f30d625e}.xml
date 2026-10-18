@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{be90f277-4544-4684-9a04-a455f30d625e}">
+		<property name="assetPath">
+			<value>E777 - Зелёный Фунтик (перезалив).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>58.618775510204081</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{81dc2e2f-1fe8-4962-9976-ac27d7c0b961}</destination>
+		</relationship>
+	</object>
+</objects>

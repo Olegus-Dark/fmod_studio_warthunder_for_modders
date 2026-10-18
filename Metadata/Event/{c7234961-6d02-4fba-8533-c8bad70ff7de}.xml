@@ -305,11 +305,6 @@
 		<relationship name="triggerConditions">
 			<destination>{8b9512de-0c77-4967-b4a4-66fb2f20d8ec}</destination>
 		</relationship>
-		<relationship name="sounds">
-			<destination>{d55ccfb1-2594-4bd4-afc8-9e158d52b30b}</destination>
-			<destination>{f0e8a16e-7140-4c52-aaf3-5ab2201e6c86}</destination>
-			<destination>{e62547f7-853c-4320-936d-a51043e83669}</destination>
-		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{2d52c9e0-9906-4fac-be9f-847116fa7601}">
 		<property name="name">
@@ -545,21 +540,6 @@
 			<destination>{06bc66bf-4911-43d8-b43e-4f5aa54a914f}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{d55ccfb1-2594-4bd4-afc8-9e158d52b30b}">
-		<relationship name="audioFile">
-			<destination>{e09b9a68-788b-40a9-84d0-92c1d46a658f}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{f0e8a16e-7140-4c52-aaf3-5ab2201e6c86}">
-		<relationship name="audioFile">
-			<destination>{d2afd283-8b47-470b-b061-a7b8e4c0f7de}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{e62547f7-853c-4320-936d-a51043e83669}">
-		<relationship name="audioFile">
-			<destination>{53077420-3fd6-4b08-af3b-657034b3e09c}</destination>
-		</relationship>
-	</object>
 	<object class="MixerBusEffectChain" id="{3ed48cac-ca3f-4898-a7dd-9c42214d8a06}">
 		<relationship name="effects">
 			<destination>{2e6085eb-08f1-45ea-911d-e4a25ddea64e}</destination>
@@ -712,7 +692,7 @@
 	<object class="MixerBusFader" id="{2e6085eb-08f1-45ea-911d-e4a25ddea64e}" />
 	<object class="ProxyEffect" id="{21e877eb-4c82-4653-bbfb-f5e746407681}">
 		<property name="inputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="preset">
 			<destination>{a5bb41eb-0117-4081-ace3-c2e9033404b3}</destination>
@@ -720,7 +700,7 @@
 	</object>
 	<object class="ProxyEffect" id="{3e546ba5-eca3-4157-82dc-ee3154b6b88e}">
 		<property name="inputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="preset">
 			<destination>{ddad5de4-b018-4a57-a159-763cba43306b}</destination>

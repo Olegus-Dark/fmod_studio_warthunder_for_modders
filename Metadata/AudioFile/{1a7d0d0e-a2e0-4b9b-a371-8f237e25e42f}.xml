@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1a7d0d0e-a2e0-4b9b-a371-8f237e25e42f}">
+		<property name="assetPath">
+			<value>Artyom Iovin - Если б не было говна.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>43.311020408163266</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{81dc2e2f-1fe8-4962-9976-ac27d7c0b961}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{852f738b-100f-4d74-8a31-3059ea9121b0}">
+		<property name="assetPath">
+			<value>Artyom Iovin - What Is Slonik (2026 Remake) _ MMV.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>109.79265306122448</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{81dc2e2f-1fe8-4962-9976-ac27d7c0b961}</destination>
+		</relationship>
+	</object>
+</objects>

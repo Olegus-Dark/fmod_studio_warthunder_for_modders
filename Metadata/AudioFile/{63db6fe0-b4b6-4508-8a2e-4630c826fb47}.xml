@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{63db6fe0-b4b6-4508-8a2e-4630c826fb47}">
+		<property name="assetPath">
+			<value>100%poops - Пахом - Моя Шишка (Зелёный слоник, Пять бутылок водки, Кокки - бегущий доктор, Голова).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>200.51591836734693</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{81dc2e2f-1fe8-4962-9976-ac27d7c0b961}</destination>
+		</relationship>
+	</object>
+</objects>
